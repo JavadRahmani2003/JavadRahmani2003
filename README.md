@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayed Mohammad Javad Rahmani</h1>
 <h3 align="center">An Computer Engineer and Programmer in Iran</h3>
 
-- 🔭 I’m currently working on **Learning Sockets**
+- 🔭 I’m currently working on **SHG Project Game, PNet App, LReadApp app project**
 
-- 🌱 I’m currently learning **C++, OpenCV, Boost Lib, &etc...**
+- 🌱 I’m currently learning **C++,Sockets, OpenCV, Boost Lib, &etc...**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/JavadRahmani2003?tab=repositories"><span>JavadRahmani2003</span></a>
 
