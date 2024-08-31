@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayed Mohammad Javad Rahmani</h1>
-<h3 align="center">An Computer Engineer and Programmer in Iran</h3>
+<h3 align="center">An Computer Engineer and Programmer</h3>
 
 - 🔭 I’m currently working on **SHG Project Game, PNet App, LReadApp app project**
 
