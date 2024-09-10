@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SHG Project Game, MyPortfolio, LReadApp app project**
 
-- 🌱 I’m currently learning **C++,Sockets, OpenCV, Boost Lib, &etc...**
+- 🌱 I’m currently learning **In C++: Sockets, boostlib, Valkan ,In Javascript: react, Nodejs**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/JavadRahmani2003?tab=repositories"><span>JavadRahmani2003</span></a>
 
