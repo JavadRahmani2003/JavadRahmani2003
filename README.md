@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sayed Mohammad Javad Rahmani</h1>
 <h3 align="center">An Computer Engineer and Programmer</h3>
 
-- 🔭 I’m currently working on **SHG Project Game, MyPortfolio, LReadApp app project**
+- 🔭 I’m currently working on **Resturant Project cpp, MyPortfolio**
 
-- 🌱 I’m currently learning **In C++: Sockets, boostlib, Valkan ,In Javascript: react, Nodejs**
+- 🌱 I’m currently learning **System, Android, Web Development**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/JavadRahmani2003?tab=repositories"><span>JavadRahmani2003</span></a>
 
-- 💬 Ask me about **c++, js, kotlin**
+- 💬 Ask me about **C++ and rust, js and Typescript, Java and kotlin**
 
 - 📫 How to reach me **span.smjr.span@gmail.com**
 
