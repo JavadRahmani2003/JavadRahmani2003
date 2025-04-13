@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sayed Mohammad Javad Rahmani</h1>
 <h3 align="center">An Computer Engineer and Programmer</h3>
 
-- 🔭 I’m currently working on **Resturant Project cpp (CUI and GUI) , MyPortfolio**
+- 🔭 I’m currently working on **My Projects**
 
-- 🌱 I’m currently learning **System, Android, Web Development**
+- 🌱 I’m currently learning **System, Web Development**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/JavadRahmani2003?tab=repositories"><span>My Repositories</span></a> Please Check them out!
 
-- 💬 Ask me about **C++, js, Java**
+- 💬 Ask me about **System Programming, Web Developing**
 
 - 📫 How to reach me **span.smjr.span@gmail.com**
 
